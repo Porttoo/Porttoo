@@ -3,9 +3,6 @@
 
 I’m currently pursuing a degree in Software Analysis and Development at Universidade Cruzeiro do Sul. I’m originally from Brazil, more specifically from the state of Rio Grande do Sul. I’m passionate about technology and always eager to learn and grow in the field of software development.
 
-##
-![Snake animation](https://raw.githubusercontent.com/Porttoo/Porttoo/output/github-contribution-grid-snake.svg)
-
 ## Tools and technologies
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
